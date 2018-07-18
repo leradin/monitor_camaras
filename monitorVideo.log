@@ -1,0 +1,87 @@
+2018-07-17 09:57:19 INFO  App:67 - Monitor Video waiting...
+2018-07-17 10:35:32 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-17 10:35:32 INFO  App:29 - ID : 1
+2018-07-17 10:35:32 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:10:36 INFO  App:67 - Monitor Video waiting...
+2018-07-18 11:12:34 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:12:34 INFO  App:29 - ID : 1
+2018-07-18 11:12:34 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:15:35 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:15:35 INFO  App:29 - ID : 1
+2018-07-18 11:15:35 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:16:44 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:16:44 INFO  App:29 - ID : 1
+2018-07-18 11:16:44 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:22:30 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:22:30 INFO  App:29 - ID : 1
+2018-07-18 11:22:30 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:23:25 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:23:25 INFO  App:29 - ID : 1
+2018-07-18 11:23:25 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:25:15 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:25:15 INFO  App:29 - ID : 1
+2018-07-18 11:25:15 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:28:31 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:28:31 INFO  App:29 - ID : 1
+2018-07-18 11:28:31 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:30:55 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:30:55 INFO  App:29 - ID : 1
+2018-07-18 11:30:55 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:32:33 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:32:33 INFO  App:29 - ID : 1
+2018-07-18 11:32:34 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:33:45 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:33:45 INFO  App:29 - ID : 1
+2018-07-18 11:33:45 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:34:51 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:34:51 INFO  App:29 - ID : 1
+2018-07-18 11:34:51 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:35:57 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:35:57 INFO  App:29 - ID : 1
+2018-07-18 11:35:57 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:38:07 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:38:07 INFO  App:29 - ID : 1
+2018-07-18 11:38:07 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:39:19 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:39:19 INFO  App:29 - ID : 1
+2018-07-18 11:39:19 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:40:37 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:40:37 INFO  App:29 - ID : 1
+2018-07-18 11:40:37 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:42:39 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:42:39 INFO  App:29 - ID : 1
+2018-07-18 11:42:40 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:44:22 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:44:22 INFO  App:29 - ID : 1
+2018-07-18 11:44:22 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:45:25 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:45:25 INFO  App:29 - ID : 1
+2018-07-18 11:45:25 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:46:48 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:46:48 INFO  App:29 - ID : 1
+2018-07-18 11:46:48 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:50:39 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:50:39 INFO  App:29 - ID : 1
+2018-07-18 11:50:39 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:52:44 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:52:44 INFO  App:29 - ID : 1
+2018-07-18 11:52:44 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:54:25 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:54:25 INFO  App:29 - ID : 1
+2018-07-18 11:54:25 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 11:58:37 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 11:58:37 INFO  App:29 - ID : 1
+2018-07-18 11:58:37 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 12:00:15 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 12:00:15 INFO  App:29 - ID : 1
+2018-07-18 12:00:15 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 12:03:15 INFO  App:73 - KILL : {"id":1,"name":"Ejercicio Completo","datetime_root":"2018-04-25 14:07:33","director_first_id":"1"}
+2018-07-18 12:03:15 INFO  App:29 - ID : 1
+2018-07-18 12:03:15 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 12:07:08 INFO  App:67 - Monitor Video waiting...
+2018-07-18 12:07:18 INFO  App:73 - KILL : {"id":40,"name":"Solo 2 unidades","datetime_root":"2018-06-07 00:00:00","director_first_id":"12"}
+2018-07-18 12:07:18 INFO  App:29 - ID : 40
+2018-07-18 12:07:19 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
+2018-07-18 12:32:48 INFO  App:73 - KILL : {"id":40,"name":"Solo 2 unidades","datetime_root":"2018-06-07 00:00:00","director_first_id":"12"}
+2018-07-18 12:32:48 INFO  App:29 - ID : 40
+2018-07-18 12:32:48 ERROR App:53 - class java.io.IOException : Cannot run program "/home/kamaras/MONITOR/shutdown.sh": error=2, No such file or directory
